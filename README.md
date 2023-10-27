@@ -14,3 +14,4 @@ This project is part of a course on "Languages and Compilers" and focuses on the
 ## Usage
 
 You can use the provided code as a foundation for your project. Modify the code as needed to suit your requirements, and adapt it to handle different regular expressions and input files.
+Must use up to date g++ compiler (if ran on mac make sure you're not using clang)
